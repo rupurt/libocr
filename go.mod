@@ -38,3 +38,5 @@ require (
 	google.golang.org/protobuf v1.25.0
 	gopkg.in/guregu/null.v2 v2.1.2 // indirect
 )
+
+replace github.com/ethereum/go-ethereum => github.com/connorwstein/go-ethereum v1.9.26-0.20201211175038-9aa606358e06
